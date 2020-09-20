@@ -64,7 +64,7 @@ main{
 }
 h1{
     color: var(--VeryDarkMagenta);
-    font-size: max(min(0.5vw, 0.5em), 2rem);
+    font-size: 2rem;
 }
 .intro p{
     font-size: max(1.4vw, 1rem);
